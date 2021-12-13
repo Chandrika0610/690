@@ -1,0 +1,21 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,89.5350570679,SE.ADT.1524.LT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1,2016,93.5353164673,SE.ADT.1524.LT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2,2017,94.3777618408,SE.ADT.1524.LT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+3,2018,94.9125900269,SE.ADT.1524.LT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+4,2019,96.0877609253,SE.ADT.1524.LT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+5,2020,95.8587493896,SE.ADT.1524.LT.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+6,2015,99.2667312622,SE.ADT.1524.LT.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+7,2019,98.892906189,SE.ADT.1524.LT.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+8,2015,99.8381195068,SE.ADT.1524.LT.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+9,2016,99.9405136108,SE.ADT.1524.LT.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+10,2017,99.9401397705,SE.ADT.1524.LT.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+11,2018,99.9423675537,SE.ADT.1524.LT.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+12,2019,99.9429016113,SE.ADT.1524.LT.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+13,2015,99.2290420532,SE.ADT.1524.LT.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+14,2017,96.8758926392,SE.ADT.1524.LT.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+15,2019,98.8295669556,SE.ADT.1524.LT.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+16,2015,99.999961853,SE.ADT.1524.LT.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+17,2016,99.9999313354,SE.ADT.1524.LT.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+18,2018,99.9999237061,SE.ADT.1524.LT.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+19,2019,99.9999237061,SE.ADT.1524.LT.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend

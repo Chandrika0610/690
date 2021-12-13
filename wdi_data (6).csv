@@ -1,0 +1,56 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,468549,SE.PRM.UNER.FE,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+1,2016,390999,SE.PRM.UNER.FE,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+2,2017,381641,SE.PRM.UNER.FE,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+3,2018,353506,SE.PRM.UNER.FE,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+4,2019,377174,SE.PRM.UNER.FE,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+5,2020,421950,SE.PRM.UNER.FE,BFA,Burkina Faso,Sub-Saharan Africa ,Low income,IDA
+6,2015,379252,SE.PRM.UNER.FE,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+7,2016,453380,SE.PRM.UNER.FE,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+8,2017,539891,SE.PRM.UNER.FE,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+9,2018,466355,SE.PRM.UNER.FE,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+10,2019,483664,SE.PRM.UNER.FE,TCD,Chad,Sub-Saharan Africa ,Low income,IDA
+11,2015,518393,SE.PRM.UNER.FE,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+12,2016,330089,SE.PRM.UNER.FE,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+13,2017,289354,SE.PRM.UNER.FE,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+14,2018,197509,SE.PRM.UNER.FE,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+15,2019,166688,SE.PRM.UNER.FE,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+16,2020,142545,SE.PRM.UNER.FE,CIV,Cote d'Ivoire,Sub-Saharan Africa ,Lower middle income,IDA
+17,2015,1394680,SE.PRM.UNER.FE,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+18,2020,1424020,SE.PRM.UNER.FE,ETH,Ethiopia,Sub-Saharan Africa ,Low income,IDA
+19,2015,624734,SE.PRM.UNER.FE,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+20,2016,632084,SE.PRM.UNER.FE,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+21,2017,566837,SE.PRM.UNER.FE,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+22,2018,711827,SE.PRM.UNER.FE,MLI,Mali,Sub-Saharan Africa ,Low income,IDA
+23,2015,305669,SE.PRM.UNER.FE,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+24,2016,313674,SE.PRM.UNER.FE,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+25,2017,335103,SE.PRM.UNER.FE,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+26,2018,219096,SE.PRM.UNER.FE,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+27,2019,110861,SE.PRM.UNER.FE,MOZ,Mozambique,Sub-Saharan Africa ,Low income,IDA
+28,2015,718427,SE.PRM.UNER.FE,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+29,2016,728586,SE.PRM.UNER.FE,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+30,2017,701725,SE.PRM.UNER.FE,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+31,2019,886775,SE.PRM.UNER.FE,NER,Niger,Sub-Saharan Africa ,Low income,IDA
+32,2015,148709,SE.PRM.UNER.FE,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+33,2016,197113,SE.PRM.UNER.FE,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+34,2017,215049,SE.PRM.UNER.FE,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+35,2018,263849,SE.PRM.UNER.FE,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+36,2019,221332,SE.PRM.UNER.FE,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+37,2015,238090,SE.PRM.UNER.FE,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+38,2019,274164,SE.PRM.UNER.FE,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+39,2020,261999,SE.PRM.UNER.FE,SEN,Senegal,Sub-Saharan Africa ,Lower middle income,IDA
+40,2015,580070,SE.PRM.UNER.FE,SSD,South Sudan,Sub-Saharan Africa ,Low income,IDA
+41,2015,1246776,SE.PRM.UNER.FE,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+42,2016,1175863,SE.PRM.UNER.FE,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+43,2017,1226657,SE.PRM.UNER.FE,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+44,2018,1127796,SE.PRM.UNER.FE,SDN,Sudan,Sub-Saharan Africa ,Low income,IDA
+45,2015,231900,SE.PRM.UNER.FE,USA,United States,North America,High income,Not classified
+46,2016,52078,SE.PRM.UNER.FE,USA,United States,North America,High income,Not classified
+47,2018,76669,SE.PRM.UNER.FE,USA,United States,North America,High income,Not classified
+48,2019,101961,SE.PRM.UNER.FE,USA,United States,North America,High income,Not classified
+49,2015,158464,SE.PRM.UNER.FE,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+50,2016,162583,SE.PRM.UNER.FE,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+51,2017,195402,SE.PRM.UNER.FE,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+52,2018,197643,SE.PRM.UNER.FE,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+53,2019,199509,SE.PRM.UNER.FE,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend
+54,2020,187605,SE.PRM.UNER.FE,ZWE,Zimbabwe,Sub-Saharan Africa ,Lower middle income,Blend

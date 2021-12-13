@@ -1,0 +1,36 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,25.8899993896,SL.EMP.WORK.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1,2016,27.9799995422,SL.EMP.WORK.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2,2017,31.0900001526,SL.EMP.WORK.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+3,2018,32.6100006104,SL.EMP.WORK.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+4,2019,33.9900016785,SL.EMP.WORK.FE.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+5,2015,51.8600006104,SL.EMP.WORK.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+6,2016,52.1199989319,SL.EMP.WORK.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2017,52.4300003052,SL.EMP.WORK.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2018,53.2099990845,SL.EMP.WORK.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2019,54.1500015259,SL.EMP.WORK.FE.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2015,19.5499992371,SL.EMP.WORK.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+11,2016,20.6399993896,SL.EMP.WORK.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+12,2017,21.8400001526,SL.EMP.WORK.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+13,2018,23.1599998474,SL.EMP.WORK.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+14,2019,24.1599998474,SL.EMP.WORK.FE.ZS,IND,India,South Asia,Lower middle income,IBRD
+15,2015,56.6199989319,SL.EMP.WORK.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+16,2016,57.8600006104,SL.EMP.WORK.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+17,2017,59.3199996948,SL.EMP.WORK.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+18,2018,60.0900001526,SL.EMP.WORK.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+19,2019,60.4300003052,SL.EMP.WORK.FE.ZS,PHL,Philippines,East Asia & Pacific,Lower middle income,IBRD
+20,2015,91.0100021362,SL.EMP.WORK.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+21,2016,90.9499969482,SL.EMP.WORK.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+22,2017,90.6999969482,SL.EMP.WORK.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+23,2018,90.8600006104,SL.EMP.WORK.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+24,2019,91.3199996948,SL.EMP.WORK.FE.ZS,SGP,Singapore,East Asia & Pacific,High income,Not classified
+25,2015,87.9300003052,SL.EMP.WORK.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+26,2016,87.6600036621,SL.EMP.WORK.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+27,2017,87.0199966431,SL.EMP.WORK.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+28,2018,87.4599990845,SL.EMP.WORK.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+29,2019,86.6900024414,SL.EMP.WORK.FE.ZS,ZAF,South Africa,Sub-Saharan Africa ,Upper middle income,IBRD
+30,2015,60.3899993896,SL.EMP.WORK.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+31,2016,61.8600006104,SL.EMP.WORK.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+32,2017,62.9599990845,SL.EMP.WORK.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+33,2018,64.3000030518,SL.EMP.WORK.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
+34,2019,65.9000015259,SL.EMP.WORK.FE.ZS,UZB,Uzbekistan,Europe & Central Asia,Lower middle income,Blend
